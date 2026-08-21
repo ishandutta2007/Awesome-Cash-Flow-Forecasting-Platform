@@ -73,7 +73,7 @@ Whether you require an enterprise-grade hosted SaaS solution or a self-hosted op
 
 *Ranked in descending order by GitHub Stars ⭐.*
 
-| Repository | GitHub Stars Badge | Category | Description |
+| Repository | GitHub_Stars Badge | Category | Description |
 | :--- | :---: | :--- | :--- |
 | **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** | <a href="https://github.com/maybe-finance/maybe/stargazers"><img src="https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white" alt="maybe-finance/maybe stars" /></a> | 💼 Personal &amp; Wealth Finance | The personal finance OS for tracking net worth, cash flow trajectories, investment accounts, and future financial planning. |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="odoo/odoo stars" /></a> | 🏢 Enterprise ERP &amp; Accounting | Comprehensive open-source ERP with dedicated Treasury, Cash Flow Forecasting, dynamic bank reconciliation, and AR/AP aging modules. |
